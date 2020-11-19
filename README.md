@@ -12,3 +12,9 @@ The second course, Multivariate Calculus, builds on this to look at how to optim
 The third course, Dimensionality Reduction with Principal Component Analysis, uses the mathematics from the first two courses to compress high-dimensional data. This course is of intermediate difficulty and will require Python and numpy knowledge.
 
 At the end of this specialization you will have gained the prerequisite mathematical knowledge to continue your journey and take more advanced courses in machine learning.
+
+
+
+
+
+![Math1](https://coursera.org/share/da0bae5325ba4770e31f7ef4bbfccc5b)
