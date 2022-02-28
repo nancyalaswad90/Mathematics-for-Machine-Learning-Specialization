@@ -66,12 +66,7 @@ At the end of this course you will have an intuitive understanding of vectors an
 
 
 
-![Math1](https://coursera.org/share/da0bae5325ba4770e31f7ef4bbfccc5b)
-
-
-
-
-
+.
 
 
 ## [Mathematics for Machine Learning: Linear Algebra](https://coursera.org/share/6fdc82b9a9df19742f14ca760f3cad3f)
