@@ -80,7 +80,7 @@ At the end of this course you will have an intuitive understanding of vectors an
 - September 30, 2020 , 5 weeks of study, 2-5 hours/week  , Grade Achieved: 100.00%
 
 
-> ![Linear Algebra.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607536549/Linear_Algebra.png)
+> ![Linear Algebra](https://user-images.githubusercontent.com/36210723/156063873-0bb42a33-d9e8-4cc1-b9a8-be80cefa84b1.png)
 
 
 
@@ -88,6 +88,7 @@ At the end of this course you will have an intuitive understanding of vectors an
 
 
 .
+
 
 
 
