@@ -33,9 +33,19 @@ At the end of this specialization you will have gained the prerequisite mathemat
 
 
 
-            =================================================================================
+.
+
+
+
+                   =================================================================================
             
             
+
+
+
+.
+
+
 
 >  ## Mathematics for Machine Learning: Linear Algebra
 
@@ -44,6 +54,7 @@ At the end of this specialization you will have gained the prerequisite mathemat
 
 
 ### About this Course
+
 
 
 
@@ -56,3 +67,46 @@ At the end of this course you will have an intuitive understanding of vectors an
 
 
 ![Math1](https://coursera.org/share/da0bae5325ba4770e31f7ef4bbfccc5b)
+
+
+
+
+
+
+
+## [Mathematics for Machine Learning: Linear Algebra](https://coursera.org/share/6fdc82b9a9df19742f14ca760f3cad3f)
+
+
+- September 30, 2020 , 5 weeks of study, 2-5 hours/week  , Grade Achieved: 100.00%
+
+
+> ![Linear Algebra.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607536549/Linear_Algebra.png)
+
+
+
+
+
+
+.
+
+
+
+                   =================================================================================
+            
+            
+
+
+
+.
+
+
+## [Mathematics for Machine Learning: Multivariate Calculus](https://coursera.org/share/eaaa785d9f0157598b642a15e9c38050)
+
+
+- November 12, 2020 , 6 weeks of study, 2-5 hours/week , Grade Achieved: 88.75%
+
+
+> ![Calculus.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607536549/Calculus.png)
+
+
+
