@@ -106,7 +106,7 @@ At the end of this course you will have an intuitive understanding of vectors an
 - November 12, 2020 , 6 weeks of study, 2-5 hours/week , Grade Achieved: 88.75%
 
 
-> ![Calculus.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1607536549/Calculus.png)
+.
 
 
 > ![Multivariate Calculus](https://user-images.githubusercontent.com/36210723/156063594-30f45fb5-4a3d-4791-a5d9-d8efb90b4df7.png)
